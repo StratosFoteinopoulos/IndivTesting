@@ -1,0 +1,7 @@
+C:\Users\stratos\source\repos\IndivTesting\IndivTesting\bin\Debug\IndivTesting.exe.config
+C:\Users\stratos\source\repos\IndivTesting\IndivTesting\bin\Debug\IndivTesting.exe
+C:\Users\stratos\source\repos\IndivTesting\IndivTesting\bin\Debug\IndivTesting.pdb
+C:\Users\stratos\source\repos\IndivTesting\IndivTesting\obj\Debug\IndivTesting.csprojAssemblyReference.cache
+C:\Users\stratos\source\repos\IndivTesting\IndivTesting\obj\Debug\IndivTesting.csproj.CoreCompileInputs.cache
+C:\Users\stratos\source\repos\IndivTesting\IndivTesting\obj\Debug\IndivTesting.exe
+C:\Users\stratos\source\repos\IndivTesting\IndivTesting\obj\Debug\IndivTesting.pdb
